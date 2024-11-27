@@ -12,7 +12,7 @@
 
 ## ChatGPT镜像网站推荐
 
-2024/11/28 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
+2024/11/27 最后更新 ChatGPT镜像网站：https://chatgpt.lanjing.ai/
 
 
 | 镜像站地址   | 支持模型       | 功能亮点          |
